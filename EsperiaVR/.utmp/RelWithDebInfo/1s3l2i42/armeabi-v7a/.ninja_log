@@ -1,10 +1,19 @@
 # ninja log v5
 13	767	7712526326660035	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2e8dd8d3199e5cfe
 10	781	7712526326766494	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a3cd49dc6fef20e8
-0	784	7712526326807236	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6439c1f6cd02eeb6
-23	786	7712526326807236	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	17d5ad4106bc24ca
-7	797	7712526326956719	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	358642f46b2f9960
 29	893	7712526327908574	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7133586e9df6f869
+0	784	7712526326807236	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6439c1f6cd02eeb6
+1031	1123	7712526330253751	C:/Users/bertazza.22106/Desktop/EsperiaVR-master/EsperiaVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1s3l2i42/obj/armeabi-v7a/libgame.so	c2f4fa9ae853ef49
+7	797	7712526326956719	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	358642f46b2f9960
+23	786	7712526326807236	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	17d5ad4106bc24ca
 18	982	7712526328822007	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e0ce8386920c83d4
 4	1031	7712526329293796	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	365efab597ae33aa
-1031	1123	7712526330253751	C:/Users/bertazza.22106/Desktop/EsperiaVR-master/EsperiaVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1s3l2i42/obj/armeabi-v7a/libgame.so	c2f4fa9ae853ef49
+14	861	7713291453709376	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2e8dd8d3199e5cfe
+21	882	7713291453942888	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6439c1f6cd02eeb6
+33	889	7713291454019135	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a3cd49dc6fef20e8
+9	923	7713291454368018	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	358642f46b2f9960
+38	929	7713291454453708	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	17d5ad4106bc24ca
+27	993	7713291455085325	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7133586e9df6f869
+44	1111	7713291456270105	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e0ce8386920c83d4
+4	1159	7713291456730267	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	365efab597ae33aa
+1159	1284	7713291458012649	C:/Users/bertazza.22106/Desktop/EsperiaVR-master/EsperiaVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1s3l2i42/obj/armeabi-v7a/libgame.so	c2f4fa9ae853ef49
